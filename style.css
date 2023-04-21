@@ -139,16 +139,19 @@
     width: 226px;
 }
 
-.list__list-elem .main-tasks__input-task {
+.list__list-elem
+.main-tasks__input-task {
     display: none;
 }
 
-.list-elem_editMode .main-tasks__input-task {
+.list-elem_editMode
+.main-tasks__input-task {
     display: inline-block;
     width: 224px;
 }
 
-.list-elem_editMode .main-tasks__label-task {
+.list-elem_editMode
+.main-tasks__label-task {
     display: none;
 }
 
@@ -164,7 +167,8 @@
 /* todo end */
 
 /* completed start */
-#main-tasks_complete .main-tasks__label-task {
+#main-tasks_complete 
+.main-tasks__label-task {
     text-decoration: line-through;
     color: #888;
 }
