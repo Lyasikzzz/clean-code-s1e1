@@ -61,7 +61,7 @@
 }
 
 .main-tasks__input {
-    outline:none;
+    outline: none;
 }
 
 .main-tasks__input-task {
@@ -92,7 +92,7 @@
     width: 60px;
     font-family: Lato, sans-serif;
     cursor: pointer;
-    outline:none;
+    outline: none;
 }
 
 .main-tasks__button:hover {
@@ -108,7 +108,7 @@
 /** .main-tasks__button in "add tasks" **/
 
 .main-tasks__list {
-    margin:0;
+    margin: 0;
     padding: 0px;
 }
 
@@ -140,16 +140,16 @@
 }
 
 .list__list-elem .main-tasks__input-task {
-    display:none;
+    display: none;
 }
 
 .list-elem_editMode .main-tasks__input-task {
-    display:inline-block;
-    width:224px;
+    display: inline-block;
+    width: 224px;
 }
 
 .list-elem_editMode .main-tasks__label-task {
-    display:none;
+    display: none;
 }
 
 .main-tasks__del-img {
@@ -171,7 +171,7 @@
 /* completed end */
 
 /* media-point for tablet (768px) start */
-@media (max-width:768px) {
+@media (max-width: 768px) {
     .matrix {
         text-align: center;
     }
