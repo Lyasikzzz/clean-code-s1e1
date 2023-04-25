@@ -176,8 +176,10 @@
 
 /* media-point for tablet (768px) start */
 @media (max-width: 768px) {
+
     .matrix {
         text-align: center;
     }
+    
 }
 /* media-point for tablet (768px) end */
